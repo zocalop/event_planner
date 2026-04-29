@@ -63,6 +63,15 @@ const EventPlanner = () => {
                </div>
             </section>
             <section className="contact">
+               <h2>Contact US</h2>
+               <div>
+                  <form>
+                     <input type="text" placeholder="Name" />
+                     <input type="email" placeholder="Email" />
+                     <textarea placeholder="Message"></textarea>
+                     <button className="submit-button">Send</button>
+                  </form>
+               </div>
             </section>
         </div>
     );
