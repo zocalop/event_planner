@@ -42,9 +42,17 @@ const EventPlanner = () => {
                </ul>
             </section>
             <section className="features">
-               
+               <h1>Features</h1>
+                  <ul>
+                     <li>Easy event creation and management</li>
+                     <li>Customizable event templates</li>
+                     <li>Guest list management</li>
+                     <li>Real-time collaboration</li>
+                     <li>Reminders and notifications</li>
+                  </ul>
             </section>
             <section className="testimonials">
+               
             </section>
             <section className="contact">
             </section>
